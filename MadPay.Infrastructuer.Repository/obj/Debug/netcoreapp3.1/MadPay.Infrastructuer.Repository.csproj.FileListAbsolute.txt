@@ -1,0 +1,14 @@
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Infrastructuer.Repository\bin\Debug\netcoreapp3.1\MadPay.Infrastructuer.Repository.deps.json
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Infrastructuer.Repository\bin\Debug\netcoreapp3.1\MadPay.Infrastructuer.Repository.dll
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Infrastructuer.Repository\bin\Debug\netcoreapp3.1\MadPay.Infrastructuer.Repository.pdb
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Infrastructuer.Repository\bin\Debug\netcoreapp3.1\MadPay.Domain.Common.dll
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Infrastructuer.Repository\bin\Debug\netcoreapp3.1\MadPay.Domain.Core.dll
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Infrastructuer.Repository\bin\Debug\netcoreapp3.1\MadPay.Domain.Common.pdb
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Infrastructuer.Repository\bin\Debug\netcoreapp3.1\MadPay.Domain.Core.pdb
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Infrastructuer.Repository\obj\Debug\netcoreapp3.1\MadPay.Infrastructuer.Repository.csprojAssemblyReference.cache
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Infrastructuer.Repository\obj\Debug\netcoreapp3.1\MadPay.Infrastructuer.Repository.AssemblyInfoInputs.cache
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Infrastructuer.Repository\obj\Debug\netcoreapp3.1\MadPay.Infrastructuer.Repository.AssemblyInfo.cs
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Infrastructuer.Repository\obj\Debug\netcoreapp3.1\MadPay.Infrastructuer.Repository.csproj.CoreCompileInputs.cache
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Infrastructuer.Repository\obj\Debug\netcoreapp3.1\MadPay.Infrastructuer.Repository.csproj.CopyComplete
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Infrastructuer.Repository\obj\Debug\netcoreapp3.1\MadPay.Infrastructuer.Repository.dll
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Infrastructuer.Repository\obj\Debug\netcoreapp3.1\MadPay.Infrastructuer.Repository.pdb

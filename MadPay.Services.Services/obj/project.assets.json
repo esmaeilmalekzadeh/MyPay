@@ -1,0 +1,124 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MadPay.Domain.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MadPay.Domain.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MadPay.Domain.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MadPay.Domain.Common.dll": {}
+        }
+      },
+      "MadPay.Domain.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MadPay.Domain.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MadPay.Domain.Core.dll": {}
+        }
+      },
+      "MadPay.Infrastructuer.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MadPay.Domain.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MadPay.Infrastructuer.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MadPay.Infrastructuer.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MadPay.Domain.Common/1.0.0": {
+      "type": "project",
+      "path": "../MadPay.Domain.Common/MadPay.Domain.Common.csproj",
+      "msbuildProject": "../MadPay.Domain.Common/MadPay.Domain.Common.csproj"
+    },
+    "MadPay.Domain.Core/1.0.0": {
+      "type": "project",
+      "path": "../MadPay.Domain.Core/MadPay.Domain.Core.csproj",
+      "msbuildProject": "../MadPay.Domain.Core/MadPay.Domain.Core.csproj"
+    },
+    "MadPay.Infrastructuer.Repository/1.0.0": {
+      "type": "project",
+      "path": "../MadPay.Infrastructuer.Repository/MadPay.Infrastructuer.Repository.csproj",
+      "msbuildProject": "../MadPay.Infrastructuer.Repository/MadPay.Infrastructuer.Repository.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "MadPay.Infrastructuer.Repository >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\esmae\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\esmae\\OneDrive\\Desktop\\Start Again\\Edu Shopping Site with Angular\\MyPay\\MadPay.Services.Services\\MadPay.Services.Services.csproj",
+      "projectName": "MadPay.Services.Services",
+      "projectPath": "C:\\Users\\esmae\\OneDrive\\Desktop\\Start Again\\Edu Shopping Site with Angular\\MyPay\\MadPay.Services.Services\\MadPay.Services.Services.csproj",
+      "packagesPath": "C:\\Users\\esmae\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\esmae\\OneDrive\\Desktop\\Start Again\\Edu Shopping Site with Angular\\MyPay\\MadPay.Services.Services\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\esmae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\esmae\\OneDrive\\Desktop\\Start Again\\Edu Shopping Site with Angular\\MyPay\\MadPay.Infrastructuer.Repository\\MadPay.Infrastructuer.Repository.csproj": {
+              "projectPath": "C:\\Users\\esmae\\OneDrive\\Desktop\\Start Again\\Edu Shopping Site with Angular\\MyPay\\MadPay.Infrastructuer.Repository\\MadPay.Infrastructuer.Repository.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

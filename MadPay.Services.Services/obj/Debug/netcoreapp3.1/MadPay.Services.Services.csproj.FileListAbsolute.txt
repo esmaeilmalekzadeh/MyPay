@@ -1,0 +1,16 @@
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Services.Services\bin\Debug\netcoreapp3.1\MadPay.Services.Services.deps.json
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Services.Services\bin\Debug\netcoreapp3.1\MadPay.Services.Services.dll
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Services.Services\bin\Debug\netcoreapp3.1\MadPay.Services.Services.pdb
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Services.Services\bin\Debug\netcoreapp3.1\MadPay.Domain.Common.dll
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Services.Services\bin\Debug\netcoreapp3.1\MadPay.Domain.Core.dll
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Services.Services\bin\Debug\netcoreapp3.1\MadPay.Infrastructuer.Repository.dll
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Services.Services\bin\Debug\netcoreapp3.1\MadPay.Infrastructuer.Repository.pdb
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Services.Services\bin\Debug\netcoreapp3.1\MadPay.Domain.Common.pdb
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Services.Services\bin\Debug\netcoreapp3.1\MadPay.Domain.Core.pdb
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Services.Services\obj\Debug\netcoreapp3.1\MadPay.Services.Services.csprojAssemblyReference.cache
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Services.Services\obj\Debug\netcoreapp3.1\MadPay.Services.Services.AssemblyInfoInputs.cache
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Services.Services\obj\Debug\netcoreapp3.1\MadPay.Services.Services.AssemblyInfo.cs
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Services.Services\obj\Debug\netcoreapp3.1\MadPay.Services.Services.csproj.CoreCompileInputs.cache
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Services.Services\obj\Debug\netcoreapp3.1\MadPay.Services.Services.csproj.CopyComplete
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Services.Services\obj\Debug\netcoreapp3.1\MadPay.Services.Services.dll
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Services.Services\obj\Debug\netcoreapp3.1\MadPay.Services.Services.pdb

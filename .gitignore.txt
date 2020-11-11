@@ -1,0 +1,11 @@
+.vs
+EndPoint.Peresentation\bin
+EndPoint.Peresentation\obj
+MadPay.Domain.Common\bin
+MadPay.Domain.Common\obj
+MadPay.Domain.Core\bin
+MadPay.Domain.Core\obj
+MadPay.Infrastructuer.Repository\bin
+MadPay.Infrastructuer.Repository\obj
+MadPay.Services.Services\bin
+MadPay.Services.Services\obj

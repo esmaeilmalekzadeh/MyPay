@@ -1,0 +1,12 @@
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Domain.Common\bin\Debug\netcoreapp3.1\MadPay.Domain.Common.deps.json
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Domain.Common\bin\Debug\netcoreapp3.1\MadPay.Domain.Common.dll
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Domain.Common\bin\Debug\netcoreapp3.1\MadPay.Domain.Common.pdb
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Domain.Common\bin\Debug\netcoreapp3.1\MadPay.Domain.Core.dll
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Domain.Common\bin\Debug\netcoreapp3.1\MadPay.Domain.Core.pdb
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Domain.Common\obj\Debug\netcoreapp3.1\MadPay.Domain.Common.csprojAssemblyReference.cache
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Domain.Common\obj\Debug\netcoreapp3.1\MadPay.Domain.Common.AssemblyInfoInputs.cache
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Domain.Common\obj\Debug\netcoreapp3.1\MadPay.Domain.Common.AssemblyInfo.cs
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Domain.Common\obj\Debug\netcoreapp3.1\MadPay.Domain.Common.csproj.CoreCompileInputs.cache
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Domain.Common\obj\Debug\netcoreapp3.1\MadPay.Domain.Common.csproj.CopyComplete
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Domain.Common\obj\Debug\netcoreapp3.1\MadPay.Domain.Common.dll
+C:\Users\esmae\OneDrive\Desktop\Start Again\ShoppingSite\MyPay\MadPay.Domain.Common\obj\Debug\netcoreapp3.1\MadPay.Domain.Common.pdb

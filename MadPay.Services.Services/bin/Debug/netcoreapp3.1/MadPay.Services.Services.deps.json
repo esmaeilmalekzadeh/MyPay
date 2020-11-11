@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MadPay.Services.Services/1.0.0": {
+        "dependencies": {
+          "MadPay.Infrastructuer.Repository": "1.0.0"
+        },
+        "runtime": {
+          "MadPay.Services.Services.dll": {}
+        }
+      },
+      "MadPay.Domain.Common/1.0.0": {
+        "dependencies": {
+          "MadPay.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "MadPay.Domain.Common.dll": {}
+        }
+      },
+      "MadPay.Domain.Core/1.0.0": {
+        "runtime": {
+          "MadPay.Domain.Core.dll": {}
+        }
+      },
+      "MadPay.Infrastructuer.Repository/1.0.0": {
+        "dependencies": {
+          "MadPay.Domain.Common": "1.0.0"
+        },
+        "runtime": {
+          "MadPay.Infrastructuer.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MadPay.Services.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MadPay.Domain.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MadPay.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MadPay.Infrastructuer.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
